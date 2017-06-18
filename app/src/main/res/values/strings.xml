@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RaffleTool</string>
+    <string name="welcome_message">Welcome to the Raffle Tool!</string>
+    <string name="btn_create_list">Create list</string>
+    <string name="tv_header">This Week\'s Winners:</string>
+    <string name="instructions">Click on the Dice to Select a Winner.  Press the Star to show the list of winners.</string>
+    <string-array name="week">
+        <item>Week One</item>
+        <item>Week Two</item>
+        <item>Week Three</item>
+    </string-array>
+</resources>
